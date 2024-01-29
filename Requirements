@@ -1,1 +1,35 @@
+Bill no. should be 7 characters long with 6 numerical characters and one #. # will be the starting character in any bill no.
+	
+If bill no.re entered is not in this format then “Invalid Bill No.” Should be displayed. 
+
+The amount has to be written only to two decimal places.
+
+If it's not in this format then only consider two decimal places.
+
+Date has to range from 27 August 2003 to 29 January 2024. The format for date is DD/ Month /YYYY.  Eg.  27 August 2003.
+
+Any date outside the range is invalid as the bills are being generated within this range. Any date outside this range should give a message “ Invalid bill”
+If the format of date is not valid, user should be prompted to re enter the date. With the message “Format of Date is incorrect”
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
